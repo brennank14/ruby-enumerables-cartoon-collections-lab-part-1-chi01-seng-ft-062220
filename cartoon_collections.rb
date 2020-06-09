@@ -14,4 +14,4 @@ def list_dwarves(array)
     puts "#{index}. #{{element}"
 end
 
-greet_characters(oppressed_workers)
+list_dwarves(oppressed_workers)
